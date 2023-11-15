@@ -26,6 +26,7 @@ You'll also want to install flask using pip if you don't have it already.
 if you want to set up a local virtual environment for this particular application and its required packages I recommend running the following commands in the terminal at the root of this project:
 
 > python -m venv .venv
+
 > source .venv/bin/activate
 
 and then you can install flask using:
