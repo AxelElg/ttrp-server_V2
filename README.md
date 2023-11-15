@@ -14,7 +14,7 @@ however it should be said that this is still very much an ongoing project and ma
 
 It’s also worth mentioning that because this project is a way to test and explore what can be done with python, that at any given time the application may not be a representation of what it is supposed to be according to the description.
 As of 15/11-2023 this application is more of a REST API for a todo application rather than the dnd character sheet creator as described in the description.
-If you want an idea of what it will look like in the end you can check out my [`ttrp-server`](#https://github.com/AxelElg/ttrp-server) written in typescript
+If you want an idea of what it will look like in the end you can check out my [`ttrp-server`](https://github.com/AxelElg/ttrp-server) written in typescript
 
 ## local setup
 
